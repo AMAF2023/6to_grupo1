@@ -1,0 +1,25 @@
+li{
+
+    border: solid blue 2px; 
+    width: 100px;
+}
+h1{
+    border: solid blue 2px;
+    width: 300px;
+}
+img{
+    border: solid blue 2px; 
+    width: 100px;
+    height: 150px;
+
+}
+ul{
+    display: flex;
+
+}
+nav{
+    display: flex;
+    height: 100px;
+}
+   
+
